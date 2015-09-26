@@ -1,4 +1,4 @@
-# PhoenixGuardian
+## PhoenixGuardian
 
 To start your new Phoenix application:
 
